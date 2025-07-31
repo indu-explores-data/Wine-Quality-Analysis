@@ -93,13 +93,6 @@ Scatterplot matrix visualizing pairwise correlations between features.
 - scipy / statsmodels
 
 ---
-
-## ▶️ How to Run
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/yourusername/wine-quality-analysis.git
-   cd wine-quality-analysis\
    
 ## 📬 Let's Connect
 
