@@ -4,17 +4,6 @@ This project explores whether wine quality ratings (4.7, 4.8, and 4.9) differ si
 
 ---
 
-## 📊 Dataset
-
-The dataset used is `wines_SPA.csv`, which contains the following key features:
-
-- `rating` — Wine rating (target variable)
-- `price` — Price of wine
-- `acidity` — Chemical measure affecting taste
-- Other chemical variables
-
----
-
 ## 🧪 Objectives
 
 - Check normality of `price` and `acidity` across different ratings.
