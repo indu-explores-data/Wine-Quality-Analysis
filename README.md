@@ -31,18 +31,6 @@ The dataset used is `wines_SPA.csv`, which contains the following key features:
 
 ---
 
-## 🔍 Key Insights & Outcomes
-- Wines with different ratings show distinct patterns in **price** and **acidity**.
-- The distributions are **not normal**, validating the use of **non-parametric tests**.
-- **Kruskal-Wallis** tests showed significant differences (p < 0.05) in both variables.
-- Higher ratings tend to align with higher or more consistent acidity/price levels.
-- Wine ratings are significantly associated with chemical properties, suggesting that quality is influenced by measurable factors.
-- Variability in price and acidity indicates that both factors contribute differently to perceived quality.
-- Visualizations such as box plots and pairwise plots clearly illustrate differences among rating groups.
-- These insights can help sommeliers, wine producers, and certification boards make informed decisions.
-
----
-
 ## 📷 Visualizations
 
 ### ▶️ Count of Wine Ratings
@@ -87,6 +75,18 @@ Scatterplot matrix visualizing pairwise correlations between features.
 
 ---
 
+## 🔍 Key Insights & Outcomes
+- Wines with different ratings show distinct patterns in **price** and **acidity**.
+- The distributions are **not normal**, validating the use of **non-parametric tests**.
+- **Kruskal-Wallis** tests showed significant differences (p < 0.05) in both variables.
+- Higher ratings tend to align with higher or more consistent acidity/price levels.
+- Wine ratings are significantly associated with chemical properties, suggesting that quality is influenced by measurable factors.
+- Variability in price and acidity indicates that both factors contribute differently to perceived quality.
+- Visualizations such as box plots and pairwise plots clearly illustrate differences among rating groups.
+- These insights can help sommeliers, wine producers, and certification boards make informed decisions.
+
+---
+
 ## 💻 Technologies Used
 
 - Python 3
@@ -99,7 +99,7 @@ Scatterplot matrix visualizing pairwise correlations between features.
 ## 💻 Setup & Installation Instructions
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/indu-explores-data/Wine-Quality-Analysis
+git clone https://github.com/indu-explores-data/Wine-Quality-Analysis.git
 ```
 2. Navigate to the Project Directory:
 ```
