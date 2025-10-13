@@ -138,9 +138,11 @@ jupyter notebook
 
 ---
 
-## 📬 Let's Connect
+## 🔗 Connect with Me
+-
+For feedback, collaboration opportunities, or related queries, feel free to reach out via LinkedIn:
 
-- **LinkedIn:** [Indu R](https://www.linkedin.com/in/indu-r-3a3767170/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/indu-r-3a3767170/)
 
 - ---
 
