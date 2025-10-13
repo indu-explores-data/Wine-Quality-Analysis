@@ -130,13 +130,14 @@ jupyter notebook
 ----
 
 ▶️ Usage / How to Run
-
+-
 - Open Wine_Quality_Analysis.ipynb in Jupyter Notebook.
 - Run all cells sequentially to reproduce the analysis.
 - Visualizations and statistical results are embedded within the notebook.
 - Key insights can be found in the final sections and the images/ folder.
 
-   
+---
+
 ## 📬 Let's Connect
 
 - **LinkedIn:** [Indu R](https://www.linkedin.com/in/indu-r-3a3767170/)
