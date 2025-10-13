@@ -99,6 +99,7 @@ Scatterplot matrix visualizing pairwise correlations between features.
 
 ## 💻 Setup & Installation Instructions
 1. **Clone the Repository:**
+   Open a terminal or command prompt and run:  
 ```bash
 git clone https://github.com/indu-explores-data/Wine-Quality-Analysis.git
 ```
@@ -106,7 +107,7 @@ git clone https://github.com/indu-explores-data/Wine-Quality-Analysis.git
 ```
 cd Wine-Quality-Analysis
 ```
-4. Create and Activate a Virtual Environment (Recommended):
+3. Create and Activate a Virtual Environment (Recommended):
 ```
 python -m venv venv
 ```
