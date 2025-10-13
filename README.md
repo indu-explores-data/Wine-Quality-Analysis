@@ -93,6 +93,7 @@ Scatterplot matrix visualizing pairwise correlations between features.
 - pandas
 - seaborn / matplotlib
 - scipy / statsmodels
+- **Environment:** Jupyter Notebook
 
 ---
 
