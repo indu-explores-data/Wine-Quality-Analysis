@@ -127,6 +127,7 @@ jupyter notebook
 ```
 6. Open Wine_Quality_Analysis.ipynb and run all cells to reproduce the analysis.
 
+----
 
 ▶️ Usage / How to Run
 
