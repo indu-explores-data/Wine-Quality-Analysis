@@ -87,6 +87,9 @@ Scatterplot matrix visualizing pairwise correlations between features.
 ---
 
 ## 💻 Setup & Installation Instructions
+
+Follow these steps to set up the project locally and run the analysis:
+
 1. **Clone the Repository:**
 Open a terminal or command prompt and run:  
 ```bash
