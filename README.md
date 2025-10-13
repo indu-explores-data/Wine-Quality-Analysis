@@ -7,7 +7,6 @@ This project explores whether wine quality ratings (4.7, 4.8, and 4.9) differ si
 ## 📊 Dataset
 
 The dataset used is `wines_SPA.csv`, which contains the following key features:
-- **Source:** [Kaggle Wine SPA](https://www.kaggle.com/) *(Link not included for copyright compliance)*
 
 - `rating` — Wine rating (target variable)
 - `price` — Price of wine
@@ -32,12 +31,15 @@ The dataset used is `wines_SPA.csv`, which contains the following key features:
 
 ---
 
-## 🧠 Key Insights
-
-1. Wines with different ratings show distinct patterns in **price** and **acidity**.
-2. The distributions are **not normal**, validating the use of **non-parametric tests**.
-3. **Kruskal-Wallis** tests showed significant differences (p < 0.05) in both variables.
-4. Higher ratings tend to align with higher or more consistent acidity/price levels.
+## 🔍 Key Insights & Outcomes
+- Wines with different ratings show distinct patterns in **price** and **acidity**.
+- The distributions are **not normal**, validating the use of **non-parametric tests**.
+- **Kruskal-Wallis** tests showed significant differences (p < 0.05) in both variables.
+- Higher ratings tend to align with higher or more consistent acidity/price levels.
+- Wine ratings are significantly associated with chemical properties, suggesting that quality is influenced by measurable factors.
+- Variability in price and acidity indicates that both factors contribute differently to perceived quality.
+- Visualizations such as box plots and pairwise plots clearly illustrate differences among rating groups.
+- These insights can help sommeliers, wine producers, and certification boards make informed decisions.
 
 ---
 
@@ -93,6 +95,46 @@ Scatterplot matrix visualizing pairwise correlations between features.
 - scipy / statsmodels
 
 ---
+
+## 💻 Setup & Installation Instructions
+1. **Clone the Repository:**
+```bash
+git clone https://github.com/indu-explores-data/Wine-Quality-Analysis
+```
+2. Navigate to the Project Directory:
+```
+cd Wine-Quality-Analysis
+```
+4. Create and Activate a Virtual Environment (Recommended):
+```
+   python -m venv venv
+```
+Windows:
+```
+venv\Scripts\activate
+```
+Mac/Linux:
+```
+source venv/bin/activate
+```
+4. Install Required Libraries:
+```
+pip install pandas seaborn matplotlib scipy statsmodels jupyter
+```
+5. Launch Jupyter Notebook:
+```
+jupyter notebook
+```
+6. Open Wine_Quality_Analysis.ipynb and run all cells to reproduce the analysis.
+
+
+▶️ Usage / How to Run
+
+- Open Wine_Quality_Analysis.ipynb in Jupyter Notebook.
+- Run all cells sequentially to reproduce the analysis.
+- Visualizations and statistical results are embedded within the notebook.
+- Key insights can be found in the final sections and the images/ folder.
+
    
 ## 📬 Let's Connect
 
