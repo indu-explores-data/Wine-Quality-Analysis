@@ -107,7 +107,7 @@ cd Wine-Quality-Analysis
 ```
 4. Create and Activate a Virtual Environment (Recommended):
 ```
-   python -m venv venv
+python -m venv venv
 ```
 Windows:
 ```
@@ -139,7 +139,7 @@ jupyter notebook
 ---
 
 ## 🔗 Connect with Me
--
+
 For feedback, collaboration opportunities, or related queries, feel free to reach out via LinkedIn:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/indu-r-3a3767170/)
