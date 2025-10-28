@@ -119,13 +119,13 @@ Open a terminal or command prompt and run:
    ```
    jupyter notebook
    ```
-**6. Open `Wine_Quality_Analysis.ipynb` and run all cells to reproduce the analysis.**
+**6. Open `Wine Quality Analysis.ipynb` and run all cells to reproduce the analysis.**
 
 ----
 
 ## ▶️ Usage / How to Run
 
-- Open **Wine_Quality_Analysis.ipynb** in Jupyter Notebook.
+- Open **Wine Quality Analysis.ipynb** in Jupyter Notebook.
 - Run all cells sequentially to reproduce the analysis.
 - Visualizations and statistical results are embedded within the notebook.
 - Key insights can be found in the final sections and the images/ folder.
