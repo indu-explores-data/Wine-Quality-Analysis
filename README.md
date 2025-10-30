@@ -14,9 +14,10 @@ This project explores whether wine quality ratings (4.7, 4.8, and 4.9) differ si
 
 ## 📌 Key Methods
 
-- **Shapiro-Wilk Test**: Check if data is normally distributed.
-- **Kruskal-Wallis Test**: Identify statistically significant differences between rating groups.
-- **Box Plots, QQ Plots**: Visual confirmation of distribution patterns.
+- **Shapiro-Wilk Test** — Tested the normality of key variables (*price* and *acidity*).  
+- **Kruskal-Wallis Test** — Checked for statistically significant differences between wine rating groups.  
+- **Box Plots & Q-Q Plots** — Provided visual validation of data distribution and group variation.  
+- **Pair Plot (Seaborn)** — Explored relationships among numeric variables to identify correlations.  
 
 ---
 
